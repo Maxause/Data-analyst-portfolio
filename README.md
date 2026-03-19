@@ -8,6 +8,6 @@
 [Dashboard](Superstore-Dashboard-1.pdf) | [Pandas EDA](superstore_eda.ipynb)
 
 ### 2. **Titanic Survival Analysis** 
-**Pandas + SQL LeetCode 4/50**  
+**Pandas**  
 **Women 1st Class: 96.8% survival**  
 [Titanic EDA](titanic_eda.ipynb)
