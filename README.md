@@ -4,7 +4,7 @@
 | Версия | [📄 Скачать PDF](resume_ru.pdf) | [📄 Скачать PDF](resume_en.pdf) |
 |--------|--------------------------------|--------------------------------|
 | **Русский** | ✅ Moscow, Remote-ready | |
-| **English** | | ✅ International, Ready to relocate\remot |
+| **English** | | ✅ International, Ready to relocate\remote |
 
 # Projects
 
