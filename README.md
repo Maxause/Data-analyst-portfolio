@@ -1,5 +1,11 @@
 # Data Analyst Portfolio | Semin Max
 
+## 👨‍💻 **Resume**
+| Версия | [📄 Скачать PDF](resume_ru.pdf) | [📄 Скачать PDF](resume_en.pdf) |
+|--------|--------------------------------|--------------------------------|
+| **Русский** | ✅ Moscow, Remote-ready | |
+| **English** | | ✅ International | ready to relocate\remote
+
 # Projects
 
 ### 1. **Superstore Sales Analysis** 
