@@ -5,7 +5,7 @@
 ### 1. **Superstore Sales Analysis** 
 **Power BI + Pandas + Excel + VSLOOKUP**  
 **$2.3M Sales | 12.5% Margin**  
-[Dashboard](Superstore-Dashboard-1.pdf) | [Pandas EDA](superstore_eda.ipynb) | [Excel] [🔗 Скачать XLSX](Superstore_pivot.xlsx)
+[Dashboard](Superstore-Dashboard-1.pdf) | [Pandas EDA](superstore_eda.ipynb) | [Excel](Superstore_pivot.xlsx)
 
 ### 2. **Titanic Survival Analysis** 
 **Pandas**  
