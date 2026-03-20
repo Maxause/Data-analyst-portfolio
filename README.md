@@ -16,4 +16,4 @@
 ### 2. **Titanic Survival Analysis** 
 **Pandas**  
 **Women 1st Class: 96.8% survival**  
-[Titanic EDA](titanic_eda.ipynb)
+[Titanic EDA](Titanic_eda.ipynb)
