@@ -19,6 +19,9 @@
 [Titanic EDA](Titanic_eda.ipynb)
 
 
+
+
+
 ## Skills
 
 | **Stack** | **Exp** | **Projects** |
