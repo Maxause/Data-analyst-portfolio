@@ -27,7 +27,7 @@
 | **Stack** | **Exp** | **Projects** |
 |-----------------|----------|-------------|
 | **SQL** | GROUP BY, SUM, COUNT, CASE WHEN, JOIN, Subquery | Superstore 9994 orders |
-| **Power BI** | Cards, Bar/Pie Charts, Maps, Slicers | [Dasboard](Superstore_PowerBI_Maksim.pdf) |
+| **Power BI** | Cards, Bar/Pie Charts, Maps, Slicers | [Dashboard](Superstore_PowerBI_Maksim.pdf) |
 | **Excel** | Pivot Tables, VLOOKUP | [Pricing for 320+ lines](Superstore_pivot%2Bvlookup.xlsx) |
 | **Python** | pandas, SQL queries | Tinkoff fraud analysis |
 
