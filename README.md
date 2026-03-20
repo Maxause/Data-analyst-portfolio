@@ -19,31 +19,26 @@
 [Titanic EDA](Titanic_eda.ipynb)
 
 
-## 🛠️ Навыки
+## Skills
 
-| **Инструменты** | **Опыт** | **Проекты** |
+| **Stack** | **Exp** | **Projects** |
 |-----------------|----------|-------------|
-| **SQL (SQLite)** | GROUP BY, SUM, COUNT, CASE WHEN, подзапросы | Superstore 9994 заказов |
-| **Power BI** | Cards, Bar/Pie Charts, Maps, Slicers | [Дашборд](Superstore_PowerBI_Maksim.pdf) |
+| **SQL** | GROUP BY, SUM, COUNT, CASE WHEN, JOIN, Subquery | Superstore 9994 orders |
+| **Power BI** | Cards, Bar/Pie Charts, Maps, Slicers | [Dasboard](Superstore_PowerBI_Maksim.pdf) |
 | **Excel** | Pivot Tables, VLOOKUP | Ценообразование 320+ строк |
-| **Python** | pandas, SQL queries | Tinkoff анализ |
+| **Python** | pandas, SQL queries | Tinkoff fraud analysis |
 
-| **IT Backend (4+ года)** | **Опыт** |
+| **IT Backend (4+ years)** | **Exp** |
 |---------------------------|----------|
 | **System Admin** | Active Directory, Jira/Confluence, Windows Server |
 | **Tech Support** | АТОЛ, Ticketscloud, Ozon Bank, Tinkoff |
 | **Инфраструктура** | PowerBI admin, SonarQube, Postman API |
 
-## 🗄️ SQL Analysis
-```sql
--- % прибыльных заказов по категориям (Technology #1!)
-SELECT category, COUNT(CASE WHEN profit > 0 THEN 1 END)*100.0/COUNT(*) as profit_pct
-FROM superstore GROUP BY category ORDER BY profit_pct DESC;
-📈 Контакты
-Telegram: @твой_ник
+
+##📈 Контакты
 
 Email: msemin812@gmail.com
 
-LinkedIn: Maxim Semin
+LinkedIn: [Maxim Semin](linkedin.com/in/maxim-semin-b116463b3)
 
 Relocation: Serbia/Vietnam/Thailand ready
