@@ -25,7 +25,7 @@
 |-----------------|----------|-------------|
 | **SQL** | GROUP BY, SUM, COUNT, CASE WHEN, JOIN, Subquery | Superstore 9994 orders |
 | **Power BI** | Cards, Bar/Pie Charts, Maps, Slicers | [Dasboard](Superstore_PowerBI_Maksim.pdf) |
-| **Excel** | Pivot Tables, VLOOKUP | Ценообразование 320+ строк |
+| **Excel** | Pivot Tables, VLOOKUP | [Pricing for 320+ lines](Superstore_pivot%2Bvlookup.xlsx) |
 | **Python** | pandas, SQL queries | Tinkoff fraud analysis |
 
 | **IT Backend (4+ years)** | **Exp** |
@@ -35,10 +35,10 @@
 | **Инфраструктура** | PowerBI admin, SonarQube, Postman API |
 
 
-##📈 Контакты
+
+
+📈 Contacts
 
 Email: msemin812@gmail.com
 
 LinkedIn: [Maxim Semin](linkedin.com/in/maxim-semin-b116463b3)
-
-Relocation: Serbia/Vietnam/Thailand ready
